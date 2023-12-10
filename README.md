@@ -34,6 +34,8 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adhishrayas" alt="GitHub Streak" /></a>
+  <a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=adhishrayas)](https://github.com/anuraghazra/github-readme-stats)" /></a>
+
 </div>
 
 ## 🔗 Links
