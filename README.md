@@ -34,12 +34,9 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adhishrayas" alt="GitHub Streak" /></a>
-  <a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=adhishrayas)](https://github.com/anuraghazra/github-readme-stats)" /></a>
+</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhishrayas)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-<div align = "center">
-  <a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=adhishrayas)](https://github.com/anuraghazra/github-readme-stats)" /></a>
-</div>
 ## 🔗 Links
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1D6x-luN9GH9dds-CMsPnBUrYLwnmQ4d5/view?usp=sharing)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adhishraya-sharma-55000b229/)
