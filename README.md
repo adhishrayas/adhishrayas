@@ -20,7 +20,7 @@ I specialize in designing systems from the ground up: task queues, test suites, 
 
 | Area | Details |
 |---|---|
-| High PErformance API Design | Latency reduction, big data handling |
+| High Performance API Design | Latency reduction, big data handling |
 | System design | Task queues, microservices, auth flows, reporting pipelines |
 | Performance & reliability | Load testing, production-grade test suites, data consistency |
 
